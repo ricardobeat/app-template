@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "description": "",
+  "version": "0.1.0",
+  "main": "app.coffee",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "flour": "",
+    "mocha": "",
+    "should": ""
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricardobeat/project.git"
+  },
+  "author": "Ricardo Tomasi",
+  "license": "MIT (ricardo.mit-license.org)"
+}
